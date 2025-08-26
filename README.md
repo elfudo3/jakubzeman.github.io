@@ -1,4 +1,8 @@
-# Data Scientist 
+<p align="center">
+  <img src="/assets/profile_pic_linkedin.jpg" alt="Jakub Zeman profile picture" width="200"/>
+</p>
+
+# Student of Computer Science - Data Scientist
 
 ### Education 
 
