@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="/assets/profile_pic_linkedin.jpg" alt="Jakub Zeman profile picture" width="200"/>
+  <img src="assets/profile_pic_linkedin.jpg" alt="Jakub Zeman profile picture" width="200"/>
 </p>
 
 # Student of Computer Science - Data Scientist
 
-### Education 
+---
+
+## Education 
 
 - Bachelor of Science (Honours) Computer Science and Information Technology - University Of Galway  
   > Average Grade: First Class Honours  
@@ -12,7 +14,9 @@
 - PLC in Software Development - Galway Technical Institute  
   > Final Grade: Full Distinction  
 
-### Work Experience
+---
+
+## Work Experience
 
 - Data Analyst/AI trainer @ Outlier AI (May 2025 - Present)  
 - Sales Person @ Harvey Norman (April 2022 - May 2025)  
