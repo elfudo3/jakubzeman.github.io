@@ -2,9 +2,17 @@
   <img src="assets/profile_pic_linkedin.jpg" alt="Jakub Zeman profile picture" width="200"/>
 </p>
 
-# Student of Computer Science - Data Scientist
+# Student of Computer Science - Aspiring Data Scientist
 
 ---
+
+## An Introduction: My Passion for Data Science
+
+My favourite thing about Data Science is how you can apply it to almost any interest you may have, be it, sport, science, law, art, anything at all. You can use the modern tools of Data Science to find a deeper understanding of it; find insights that you may not have known before.
+
+I love graphs and visualization of data. As a big fan of F1 and the part which excites me the most is how the various teams analyze every little bit of data from the car, to get a better understanding of where they need to improve. These fine margins are where Data Science excels!
+
+This is a small example for how deeply and positively Data Science can influence the future of humanity, to improve in ways our eyes and limited insticts can simply not. The fine margins of the *economy, distribution of wealth, enviromental changes, healthcare, and space exploration* are just a few examples of where a good data scientist can make a huge and important difference. I aspire to be that scientist!
 
 ## Education 
 
@@ -26,7 +34,7 @@
 ## Projects
 
 ### Machine Learning Pneumonia Classifier (CNN)  
-[Publication](https://github.com/elfudo3/pneumonia_xray_classifier)  
+[GitHub Repo](https://github.com/elfudo3/pneumonia_xray_classifier)  
 
 > Developed a deep learning model using **PyTorch** to detect pneumonia from chest X-ray images. I balanced the dataset, applied preprocessing (grayscale, resize, normalize), and fine-tuned a ResNet18 model, achieving ~98% test accuracy. The project includes clear folder structure, Jupyter notebooks, and evaluation with training/validation/test splits.  
 > **Tech Stack:** PyTorch, Python, NumPy, Matplotlib, Pandas, Jupyter  
@@ -39,7 +47,7 @@
 ---
 
 ### Exoplanet Habitability Analysis (EDA) - NASA Exoplanet Archive  
-[Publication](https://github.com/elfudo3/exoplanet-habitability)  
+[GitHub Repo](https://github.com/elfudo3/exoplanet-habitability)  
 
 > Built an exploratory data analysis pipeline on NASA’s exoplanet archive to identify potentially habitable worlds. Applied filtering criteria (radius, mass, temperature, spectral type, distance), engineered a custom habitability score, and visualized results with scatter plots and radar charts comparing candidates to Earth. Produced a ranked shortlist of six promising exoplanets.  
 > **Tech Stack:** Pandas, Python, NumPy, Matplotlib, Seaborn, Jupyter  
